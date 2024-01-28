@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="140bac65-62ff-4582-9d0e-7490a9566163" name="Pi 3b">
+        <fileTransfer rootFolder="/home/gotodanny/Documents/ColdRoom" accessType="SFTP" host="192.168.0.16" port="22" sshConfigId="8552380a-c807-4575-be46-3b7f1b72e7e8" sshConfig="gotodanny@192.168.0.16:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
